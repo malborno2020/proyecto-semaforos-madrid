@@ -32,17 +32,18 @@ Para ejecutar este proyecto, necesitas una cuenta de Google (para Colab y Drive)
    ```bash
     pip install -r requirements.txt
 
-(Asegúrate de tener un archivo requirements.txt con: crewai, crewai-tools, mcp, pandas, numpy, h5py, requests, langchain-openai)
+   (Asegúrate de tener un archivo requirements.txt con: crewai, crewai-tools, mcp, pandas, numpy, h5py, requests, langchain-openai)
 
 3.Configura tu API Key de OpenAI como variable de entorno:
-  ```bash
+   ```bash
    export OPENAI_API_KEY="tu-clave-aqui"
+   ```
 
 ##🚀 Cómo Ejecutar el Proyecto
 
-1. Abre el archivo main.ipynb en Jupyter Notebook o Google Colab.
+   1. Abre el archivo main.ipynb en Jupyter Notebook o Google Colab.
 
-2. Ejecuta las celdas en orden secuencial:
+   2. Ejecuta las celdas en orden secuencial:
 
         Celdas 1-3: Configuración del entorno y montaje de Google Drive.
 
