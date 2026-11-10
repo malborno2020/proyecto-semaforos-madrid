@@ -30,13 +30,13 @@ Para ejecutar este proyecto, necesitas una cuenta de Google (para Colab y Drive)
 
 2. Instala las dependencias:
    ```bash
-    pip install -r requirements.txt
+   pip install -r requirements.txt
 
-   (Asegúrate de tener un archivo requirements.txt con: crewai, crewai-tools, mcp, pandas, numpy, h5py, requests, langchain-openai)
+(Asegúrate de tener un archivo requirements.txt con: crewai, crewai-tools, mcp, pandas, numpy, h5py, requests, langchain-openai)
 
 3.Configura tu API Key de OpenAI como variable de entorno:
    ```bash
-      export OPENAI_API_KEY="tu-clave-aqui"
+   export OPENAI_API_KEY="tu-clave-aqui"
    ```
 
 ## 🚀 Cómo Ejecutar el Proyecto
