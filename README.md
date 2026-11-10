@@ -68,8 +68,8 @@ Veredicto: Se activó una ALERTA ÉTICA (Efecto Lámpara). El modelo demuestra u
 
 Transparencia Geográfica: Todo modelo predictivo de tráfico debe reportar su error y sus recomendaciones desagregadas por distritos (Centro vs. Periferia).
 
-    Human-in-the-Loop: Ningún ajuste semafórico será automatizado sin la validación de un ingeniero humano.
+Human-in-the-Loop: Ningún ajuste semafórico será automatizado sin la validación de un ingeniero humano.
 
-    Privacidad: Los datos de GPS de vehículos utilizados para el entrenamiento serán anonimizados en todo momento.
+Privacidad: Los datos de GPS de vehículos utilizados para el entrenamiento serán anonimizados en todo momento.
 
 Este proyecto fue desarrollado como parte del curso "Data Analytics for Urban Systems" (2026).
