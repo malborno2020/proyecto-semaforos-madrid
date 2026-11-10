@@ -39,7 +39,7 @@ Para ejecutar este proyecto, necesitas una cuenta de Google (para Colab y Drive)
    export OPENAI_API_KEY="tu-clave-aqui"
    ```
 
-##🚀 Cómo Ejecutar el Proyecto
+## 🚀 Cómo Ejecutar el Proyecto
 
    1. Abre el archivo main.ipynb en Jupyter Notebook o Google Colab.
 
@@ -55,7 +55,7 @@ Para ejecutar este proyecto, necesitas una cuenta de Google (para Colab y Drive)
 
         Celda 13: Ejecuta la auditoría ética final (cálculo de sesgo geográfico).
 
-##📊 Resultados Principales (Auditoría Ética)
+## 📊 Resultados Principales (Auditoría Ética)
 
 El sistema identificó los 5 sensores más congestionados en horario valle:
 sensor_id: [17726, 64717, 59088, 10923, 13675]
@@ -64,7 +64,7 @@ Al cruzar estas coordenadas con el mapa de Madrid, el sistema calculó una dista
 
 Veredicto: Se activó una ALERTA ÉTICA (Efecto Lámpara). El modelo demuestra un sesgo hacia el centro de la ciudad debido a la mayor densidad de sensores en esa zona, ignorando la periferia. Se recomienda aplicar un muestreo estratificado para futuras iteraciones.
 
-##⚖️ Manifiesto Ético
+## ⚖️ Manifiesto Ético
 
 Transparencia Geográfica: Todo modelo predictivo de tráfico debe reportar su error y sus recomendaciones desagregadas por distritos (Centro vs. Periferia).
 
