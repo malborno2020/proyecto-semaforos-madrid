@@ -36,7 +36,7 @@ Para ejecutar este proyecto, necesitas una cuenta de Google (para Colab y Drive)
 
 3.Configura tu API Key de OpenAI como variable de entorno:
    ```bash
-   export OPENAI_API_KEY="tu-clave-aqui"
+      export OPENAI_API_KEY="tu-clave-aqui"
    ```
 
 ## 🚀 Cómo Ejecutar el Proyecto
